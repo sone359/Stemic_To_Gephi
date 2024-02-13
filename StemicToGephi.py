@@ -8,8 +8,36 @@ Created on Thu Jan 25 20:44:38 2024
 import json
 import csv
 import copy
+import os
 
-def stemic_to_data(file:str, color_themes:dict={}, group_label:str="included_in"):
+def stemic_to_data(file:str, destination:str=f'{os.getcwd()}/stemic_csv_files', color_themes:dict={}, group_label:str="included_in"):
+    """
+    Convert a Stemic json file in two csv files (edges and nodes) which
+    can be easely imported in Gephi.
+    The subgroups are converted in a node linked with each internal node.
+
+    Parameters
+    ----------
+    file : str
+        Path of the Stemic json file to convert.
+    destination : str, optional
+        Path of the directory where the csv files created will be 
+        written. 
+        The default is f'{os.getcwd()}/stemic_csv_files', 
+        known that os.getcwd is the working directory.
+    color_themes : dict, optional
+        Allows to convert Stemic colors in thematics in the csv files.
+        The default is {}.
+    group_label : str, optional
+        Allows to personnalise the label of the links between the 
+        subgroups' nodes and their internal nodes. 
+        The default is "included_in".
+
+    Returns
+    -------
+    None.
+
+    """
     
     #Importation du graphe Stemic sous la forme d'un json
     #Importation of the Stemic graph as a json
@@ -90,7 +118,7 @@ def stemic_to_data(file:str, color_themes:dict={}, group_label:str="included_in"
     #Stemic et formaté de manière à pouvoir être importé facilement dans Gephi
     #Writing of the csv files with all information of the Stemic graph and 
     #structured to could be imported in Gephi easely
-    with open(f"{stemic_data['title']}_edges.csv", "w", newline='') as edges_file:
+    with open(f"{destination}/{stemic_data['title']}_edges.csv", "w", newline='') as edges_file:
         writer = csv.DictWriter(edges_file, edge_header, restval=None)
         
         writer.writeheader()
@@ -98,7 +126,7 @@ def stemic_to_data(file:str, color_themes:dict={}, group_label:str="included_in"
         for edge in edges:
             writer.writerow(edge)
     
-    with open(f"{stemic_data['title']}_nodes.csv", "w", newline='') as nodes_file:
+    with open(f"{destination}/{stemic_data['title']}_nodes.csv", "w", newline='') as nodes_file:
         writer = csv.DictWriter(nodes_file, node_header, restval=None)
         
         writer.writeheader()
