@@ -10,7 +10,7 @@ import csv
 import copy
 import os
 
-def stemic_to_data(file:str, destination:str=f'{os.getcwd()}/stemic_csv_files', color_themes:dict={}, group_label:str="included_in"):
+def stemic_to_data(file:str, destination:str=os.getcwd(), color_themes:dict={}, group_label:str="included_in"):
     """
     Convert a Stemic json file in two csv files (edges and nodes) which
     can be easely imported in Gephi.
@@ -23,8 +23,7 @@ def stemic_to_data(file:str, destination:str=f'{os.getcwd()}/stemic_csv_files', 
     destination : str, optional
         Path of the directory where the csv files created will be 
         written. 
-        The default is f'{os.getcwd()}/stemic_csv_files', 
-        known that os.getcwd is the working directory.
+        The default is os.getcwd(), the working directory.
     color_themes : dict, optional
         Allows to convert Stemic colors in thematics in the csv files.
         The default is {}.
@@ -118,7 +117,7 @@ def stemic_to_data(file:str, destination:str=f'{os.getcwd()}/stemic_csv_files', 
     #Stemic et formaté de manière à pouvoir être importé facilement dans Gephi
     #Writing of the csv files with all information of the Stemic graph and 
     #structured to could be imported in Gephi easely
-    with open(f"{destination}/{stemic_data['title']}_edges.csv", "w", newline='') as edges_file:
+    with open(f"{destination}\\{stemic_data['title']}_edges.csv", "w", newline='') as edges_file:
         writer = csv.DictWriter(edges_file, edge_header, restval=None)
         
         writer.writeheader()
@@ -126,10 +125,14 @@ def stemic_to_data(file:str, destination:str=f'{os.getcwd()}/stemic_csv_files', 
         for edge in edges:
             writer.writerow(edge)
     
-    with open(f"{destination}/{stemic_data['title']}_nodes.csv", "w", newline='') as nodes_file:
+    with open(f"{destination}\\{stemic_data['title']}_nodes.csv", "w", newline='') as nodes_file:
         writer = csv.DictWriter(nodes_file, node_header, restval=None)
         
         writer.writeheader()
         
         for node in nodes:
             writer.writerow(node)
+            
+if __name__ == "__main__":
+    file_path = input("Please enter the path of the Stemic json file to convert:\n")
+    stemic_to_data(file_path)

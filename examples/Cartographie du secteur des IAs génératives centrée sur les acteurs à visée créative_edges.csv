@@ -184,11 +184,11 @@ id,source,target,type,label,weight,note,highlight,hypothetic
 52,2,40,directed,Siège social,2,,,0
 41,2,26,directed,A développé,2,,,0
 48,1,44,directed,Porte sur,4,,pink,0
-666,91,95,directed,Appartient_à,2,,,0
-665,90,95,directed,Appartient_à,2,,,0
-614,54,65,directed,Appartient_à,2,,,0
-613,53,65,directed,Appartient_à,2,,,0
-612,52,65,directed,Appartient_à,2,,,0
-610,51,65,directed,Appartient_à,2,,,0
-615,50,65,directed,Appartient_à,2,,,0
-609,49,65,directed,Appartient_à,2,,,0
+666,91,95,directed,included_in,2,,,0
+665,90,95,directed,included_in,2,,,0
+614,54,65,directed,included_in,2,,,0
+613,53,65,directed,included_in,2,,,0
+612,52,65,directed,included_in,2,,,0
+610,51,65,directed,included_in,2,,,0
+615,50,65,directed,included_in,2,,,0
+609,49,65,directed,included_in,2,,,0
