@@ -1,0 +1,141 @@
+id,label,category,note,highlight,"Lien (Article, Interface)","Impact sur le sujet (sur 10) (Article, Entreprise / Institution, Personne, Service / Fonction, Notion, Nation, Modèle, Interface)",Par (Article),"Date (Article, Service / Fonction, Modèle, Interface)",Siège social / Localisation (Entreprise / Institution),Domaine d'activité (Entreprise / Institution),Nationalité (Personne),Société (Personne),Type de modèle (Modèle)
+126,Etat,Nation,,,,,,,,,,,
+125,Gemini,Modèle,,,,7,,05/12/2023,,,,,Propriétaire
+124,Guillaume Leboucher,Personne,,,,,,,,,France,Docaposte,
+123,Alfred,Modèle,,,,4,,2023,,,,,Open Source Pour entreprise
+122,LyRA Fr,Modèle,,,,5,,2022,,,,,IA conversationnel française
+121,Oxford,Entreprise / Institution,,,,5,,,Angleterre,Université,,,
+120,RITA,Modèle,,,,5,,2022,,,,,Modèle IA
+119,PAGnol,Modèle,,,,4,,2021,,,,,modèle langage français
+117,Paradigm,Interface,,,,3,,,,,,,
+116,LightOn,Entreprise / Institution,,,,5,,,France,Plateforme IA générative,,,
+115,Alex Combessie,Personne,,,,7,,,,,France,Giskard AI,
+114,Giskard AI,Entreprise / Institution,,,,6,,,France,"Startup Française, Rend l'utilisation de l'IA robuste et transparente, ""Bureau Veritas"" de l'IA",,,
+113,Giskard,Interface,,,https://www.giskard.ai/,6,,,,,,,
+111,DocaPoste,Entreprise / Institution,,,,4,,,France,Intelligence artificielle,,,
+110,Quilbot,Entreprise / Institution,,,,3,,,Etats-Unis,Intelligence artificielle,,,
+108,Shanghai Fushouyun,Entreprise / Institution,,yellow,,6,,,Chine,Services funéraires/Développement Logiciel,,,
+107,HereAfter AI,Entreprise / Institution,"Application de communication avec un avatar contrôlé par intelligence artificielle, incarnant un être décédé
+https://www.hereafter.ai/
+",yellow,,8,,,Etats-Unis,Développement logiciel,,,
+106,Silicon Intelligence,Entreprise / Institution,"Nanjing, CHINE
+https://www.guiji.ai/#/profile
+",yellow,,8,,,Chine,Développement logiciel,,,
+105,Samuel Weinbach,Personne,,,,6,,,,,Allemagne,Aleph Alpha,
+104,Jonas Andrulis,Personne,,,,6,,,,,Allemagne,Aleph Alpha,
+103,Aleph Alpha,Entreprise / Institution,"Fondé en 2019
+A destination des entreprises et non du grand public",,,6,,,Allemagne,Intelligence artificielle,,,
+102,Allemagne,Nation,,blue,,6,,,,,,,
+101,Mistral 7B,Modèle,,,,7,,27/09/2023,,,,,Open Source
+100,Guillaume Lample,Personne,,,,6,,,,,France,Mistral AI,
+99,Timothée Lacroix,Personne,,,,6,,,,,France,Mistral AI,
+98,Arthur Mensch,Personne,,,,,,,,,France,Mistral AI,
+97,Schmidt Futures,Entreprise / Institution,,,,4,,,Etats-Unis,Fond d'investissement,,,
+96,CMA CGM,Entreprise / Institution,,,,4,,,France,"Le transport maritime, la manutention portuaire et la logistique terrestre",,,
+95,Fonds d'investissement pour start-up,,,,,,,,,,,,
+94,Photoroom,Entreprise / Institution,,,,2,,,,Retouche photo,,,
+93,Poolside,Entreprise / Institution,,,,3,,,,Intelligence artificielle à destination des développeurs,,,
+92,Mistral AI,Entreprise / Institution,,,,8,,,France,Intelligence ,,,
+91,Kima Ventures,Entreprise / Institution,,,,5,,,France,Fond d'investissement,,,
+90,NJJ,Entreprise / Institution,,,,4,,,France,Fond d'investissement,,,
+89,Station F,Entreprise / Institution,,,,4,,,France,Incubateur de start-up,,,
+88,ai.pulse,Entreprise / Institution,,,,6,,,France,Conférence sur l'IA,,,
+87,Scaleway,Entreprise / Institution,,,,4,,,France,Hébergeur web,,,
+86,Illiad Group,Entreprise / Institution,,,,7,,,France,Télécommunication,,,
+85,Moteur de recherche augmenté,Notion,,,,3,,,,,,,
+84,Perplexity,Interface,"Moteur de recherche optimisé par l'IA génératives (différents modèles). A récemment développé ses propres modèles, dont on ne sait pas s'ils ont déjà été mis en production (https://twitter.com/perplexity_ai/status/1729893537649438809).",,https://www.perplexity.ai,3,,2022,,,,,
+83,YOU.com,Interface,,,https://you.com/,3,,2020,,,,,
+82,NVIDIA,Entreprise / Institution,,,,5,,,Etats-Unis,Composants informatiques,,,
+81,Anlatan,Entreprise / Institution,,,,8,,,Etats-Unis,Service d'écriture assistée par IA,,,
+80,NovelAI,Interface,"IA qui aide les écrivains, créateurs de contenu à écrire des histoires en générant des idées de contenu.",green,https://novelai.net/,8,,15/06/2021,,,,,
+79,Ecriture générative,Notion,,green,,9,,,,,,,
+78,Premiers modèles GPT,Modèle,,,,7,,,,,,,Open Source
+77,Course Hero,Entreprise / Institution,,,,3,,,Etats-Unis,Plateforme éducative,,,
+76,Metavers,Notion,,,,4,,,,,,,
+75,Réalité virtuelle,Notion,,,,3,,,,,,,
+74,Artur Sychov,Personne,,,,,,,,,République Tchèque,Somnium Space,
+73,République Tchèque,Nation,,blue,,6,,,,,,,
+72,Royaume-Uni,Nation,,blue,,5,,,,,,,
+71,Live Forever,Service / Fonction,,yellow,,9,,,,,,,
+70,re;memory,Interface,Version internationale : https://rememory.deepbrain.io/en,yellow,https://rememory.deepbrain.io/,9,,2022,,,,,
+69,Corée du Sud,Nation,,blue,,5,,,,,,,
+68,Eric Seyoung Jang,Personne,,,,6,,,,,Corée du Sud,DeepBrain AI,
+67,Microsoft Azure OpenAI Service,Service / Fonction,,,,6,,01/2023,,,,,
+66,Grok,Modèle,Soumis à très peu de limitations face aux dérives,,,6,,,,,,,Propriétaire
+65,Groupe de recherche,,,,,,,,,,,,
+64,Personnages interactifs,Notion,,pink,,10,,,,,,,
+63,Jason Rohrer,Personne,Développeur de jeux-vidéos ayant publié la plupart de ses travaux sous la licence publique générale GNU ou bien directement dans le domaine public.,,,7,,,,,Etats-Unis,,
+62,Daniel de Freitas,Personne,,,,8,,,,,Etats-Unis,Character.AI ,
+61,Noam Shazeer,Personne,,,,8,,,,,Etats-Unis,Character.AI ,
+60,Yann Le Cun,Personne,"Considéré comme l'un des plus grands spécialiste mondiaux au sujet de l'IA de manière générale.
+
+A reçu la Légion d'Honneur par Emmanuel Macron le 6 décembre 2023.",,,9,,,,,France,Meta,
+59,Xavier Niel,Personne,,,,6,,,,,France,Iliad,
+58,Sam Altman,Personne,,,,9,,,,,Etats-Unis,OpenAI,
+57,Rodolphe Saadé,Personne,,,,6,,,,,France / Liban,CMA CGM,
+56,Eric Schmidt,Personne,,,,6,,,,,Etats-Unis,,
+55,Elon Musk,Personne,,,,6,,,,,Etats-Unis / Afrique du Sud / Canada,,
+54,Percy Liang,Personne,,,,9,,,,,Etats-Unis,Stanford University,
+53,Michael S. Bernstein,Personne,,,,9,,,,,Etats-Unis,Stanford University,
+52,Meredith Ringel Morris,Personne,,,,9,,,,,Etats-Unis,Google DeepMind,
+51,Joseph C. O’Brien,Personne,,,,9,,,,,Etats-Unis,Stanford University,
+50,Joon Sung Park,Personne,,,,9,,,,,Etats-Unis,Stanford University,
+49,Carrie J. Cai,Personne,,,,9,,,,,Etats-Unis,Google Research,
+48,GPTs,Service / Fonction,,,,7,,07/11/2023,,,,,
+47,GPT-4 Vision,Service / Fonction,,,,8,,10/2023,,,,,
+46,Thanabots,Notion,,yellow,,10,,,,,,,
+45,PNJ,Notion,,pink,,9,,,,,,,
+44,Agents génératifs,Notion,,pink,,10,,,,,,,
+43,France,Nation,,blue,,8,,,,,,,
+42,Chine,Nation,,blue,,6,,,,,,,
+41,Russie,Nation,,blue,,6,,,,,,,
+40,Etats-Unis,Nation,,blue,,9,,,,,,,
+39,Bloom,Modèle,,,,5,,,,,,,Propriétaire
+38,Wu Dao,Modèle,,,,7,,11/01/2021,,,,,Propriétaire
+37,LaMDA2,Modèle,,,,7,,11/05/2022,,,,,Propriétaire
+36,Llama 2,Modèle,,,,9,,18/07/2023,,,,,Open Source
+35,Llama,Modèle,,,,7,,02/2023,,,,,Open Source
+34,PALM2,Modèle,,,,7,,05/2023,,,,,Propriétaire
+33,LaMDA,Modèle,,,,7,,18/05/2021,,,,,Propriétaire
+32,GPT-5,Modèle,,,,7,,En développement,,,,,Propriétaire
+31,GPT-4,Modèle,,,,10,,14/03/2023,,,,,Propriétaire
+30,GPT-3.5,Modèle,,,,9,,15/03/2022,,,,,Propriétaire
+29,GPT-3,Modèle,,,,6,,28/05/2020,,,,,Propriétaire
+28,GigaChat,Modèle,,,,7,,24/04/2023,,,,,Propriétaire
+27,Claude 2,Modèle,,,,9,,11/07/2023,,,,,Propriétaire
+26,Claude,Modèle,,,,6,,,,,,,Propriétaire
+25,Project December,Interface,"A connu une mise à jour de grande ampleur.
+https://www.onehouronelife.com/forums/viewtopic.php?id=10055",yellow,https://projectdecember.net,9,,13/02/2017,,,,,
+24,Quillbot,Interface,IA permettant de paraphraser un texte en le réecrivant sans changer le sens initial du texte (35 Milions d'utilisateurs/mois),,https://quillbot.com/,3,,2017,,,,,
+23,Poe,Interface,,,https://poe.com/,7,,21/12/2022,,,,,
+22,ChatGPT,Interface,,,https://chat.openai.com/,8,,30/11/2022,,,,,
+21,Bing Chat,Interface,,,https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx,6,,04/05/2023,,,,,
+20,Bard,Interface,,,https://bard.google.com/chat,5,,21/03/2023,,,,,
+19,Character.AI,Interface,"2ème IA générative la plus utilisée après ChatGPT en novembre 2023.
+Surtout, d'après Similarweb (https://www.similarweb.com/amp/blog/insights/ai-news/character-ai-engagement/), le taux d'engagement par visite dans ce service est très élevé par rapport à ses concurrents (25,4 minutes en moyenne contre 8,4 pour ChatGPT par exemple) et 60% de son trafic est composé d'utilisateurs ayant entre 18 et 24 ans.",pink,https://beta.character.ai/,10,,16/09/2022,,,,,
+18,Character.AI,Entreprise / Institution,"Une société developpant une IA qui permet de créer et dialoguer avec des personnages virtuels imaginaires ou inspirés de personnages réels ou de jeux vidéos/films.
+A la suite d'une levée de fond dirigé par Andreessen Horowitz (à hauteur de 150 millions de dollars) en mars 2023, sa valorisation a atteint 1 milliards. Elle est toutefois estimée aujourd'hui à 5 milliards d'après des sources internes interrogées par Reuters.
+En novembre 2023, Reuters a raporté des pourparlers entre Character.AI et Google qui souhaiterait investir à hauteur de plusieurs centaines de millions de dollars. Selon Reuters, l’investissement, qui pourrait être structuré sous forme d'obligations convertibles, approfondira le partenariat existant entre Character.AI et Google, dans le cadre duquel la société utilise les services cloud de Google et les Tensor Processing Units (TPU) pour former des modèles. ",pink,,9,,,Etats-Unis,Plateforme de chat,,,
+17,Somnium Space,Entreprise / Institution,"Stockage des mouvements et des conversations sous forme de données, puis création d'un avatar qui bouge, parle et sonne similairement aux données enregistrées
+
+Entreprise fondée en 2017.
+
+Business plan : https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf",,,8,,,Royaume-Uni,Metavers VR,,,
+16,Deep Brain AI,Entreprise / Institution,"Officiellement indiquée comme une société américaine mais son fondateur est coréen, de nombreux partenaires sont des importantes compagnies coréennes et chaque service de la société est aussi disponible en coréen, avec une adresse de contact domicilée en Corée.
+Société créée en 2016.",,,8,,,Etats-Unis,project Re;memory Thanabots,,,
+15,X,Entreprise / Institution,Anciennement Twitter,,,6,,,Etats-Unis,Réseau social,,,
+14,Inworld AI,Entreprise / Institution,,pink,,10,,,Etats-Unis,"Jeux vidéos, génération de PNJ",,,
+13,Kyutai,Entreprise / Institution,"Laboratoire à but non lucratif.
+Annoncé le 17 novembre seulement mais déjà 300 millions d'investissements.",,,6,,,France,Intelligence artificielle,,,
+12,Hugging Face,Entreprise / Institution,"Plateforme principale de partage de modèles open source, notamment ceux spécialisés, Hugging Face est un espace de partage spécialisé dans l’intelligence artificielle. Concrètement, les développeurs du monde entier peuvent y déposer leurs modèles de codes, ou des jeux de données qui pourront être réutilisés ou améliorés par d’autres, et ainsi de suite.",,,8,,,Etats-Unis,Intelligence artificielle et développement de logiciels,,,
+11,Beijing Academy of Artificial Intelligence,Entreprise / Institution,,,,6,,,Chine,Recherche en intelligence artificielle,,,
+10,Stanford University,Entreprise / Institution,,,,7,,,Etats-Unis,Recherche universitaire,,,
+9,Slack,Entreprise / Institution,,,,4,,,Etats-Unis,"Collaboration, messagerie d'entreprise, automatisation, intégration, intelligence artificielle, productivité numérique.",,,
+8,Sberbank,Entreprise / Institution,,,,6,,,Russie,"Services bancaires, finances, technologies numériques, blockchain, intelligence artificielle, investissements.",,,
+7,Quora,Entreprise / Institution,,,,7,,,Etats-Unis,Forum informatique,,,
+6,OpenAI,Entreprise / Institution,,,,9,,,Etats-Unis,"Recherche en intelligence artificielle, apprentissage automatique et développements technologiques innovants",,,
+5,Microsoft,Entreprise / Institution,,,,7,,,Etats-Unis,"Logiciels, matériel, cloud computing, systèmes d'exploitation, intelligence artificielle, productivité, jeux.",,,
+4,Meta,Entreprise / Institution,,,,9,,,Etats-Unis,"Réseaux sociaux, réalité virtuelle, intelligence artificielle, technologie numérique avancée.",,,
+3,Google,Entreprise / Institution,,,,7,,,Etats-Unis,"Navigation web, recherche, développement et application de l'IA dans divers domaines comme la vision par ordinateur, le traitement du langage naturel et les systèmes d'apprentissage automatique avancés.",,,
+2,Anthropic,Entreprise / Institution,,,,8,,,Etats-Unis,Intelligence artificielle,,,
+1,Generative Agents: Interactive Simulacra of Human Behavior,Article,,pink, https://doi.org/10.48550/arXiv.2304.03442,10,Stanford University,06/08/2023,,,,,

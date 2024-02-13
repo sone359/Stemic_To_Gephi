@@ -1,0 +1,194 @@
+id,source,target,type,label,weight,note,highlight,hypothetic
+180,124,111,directed,PDG,2,,,0
+189,124,43,directed,Nationalité,2,,,0
+179,123,116,directed,Développé par,2,,,0
+178,122,116,directed,Développé par,2,,,0
+186,121,72,directed,Situé à,2,,,0
+177,120,121,directed,,2,,,0
+176,120,116,directed,Développé par,2,,,0
+175,119,116,directed,Développé par,2,,,0
+171,117,116,directed,Développé par,2,,,0
+173,116,111,directed,Collaborent,2,,,0
+555,111,116,directed,Collaborent,2,,,0
+169,115,114,directed,,2,,,0
+190,115,43,directed,Nationalité,2,,,0
+191,114,43,directed,Siège social,2,,,0
+170,113,114,directed,,2,,,0
+165,108,46,directed,,2,,,0
+166,108,38,directed,,2,,,0
+164,107,40,directed,Siège social,2,,,0
+163,107,46,directed,Concerne,2,,,0
+161,106,42,directed,,2,,,0
+162,106,46,directed,,2,,,0
+159,104,103,directed,Fondateur et PDG,2,,,0
+160,104,102,directed,Nationalité,2,,,0
+155,103,102,directed,Siège social,2,,,0
+157,101,23,directed,Gratuitement,2,,,0
+147,100,92,directed,Fondateur,2,,,0
+151,100,43,directed,Nationalité,2,,,0
+148,100,4,directed,Ex-employé de,2,,,0
+146,99,92,directed,Fondateur,2,,,0
+152,99,43,directed,Nationalité,2,,,0
+149,99,4,directed,Ex-employé de,2,,,0
+145,98,92,directed,Fondateur et PDG,2,,,0
+153,98,43,directed,Nationalité,2,,,0
+150,98,3,directed,Ex-employé de,2,,,0
+137,97,13,directed,Fondateur,2,,,0
+135,96,13,directed,Fondateur,2,,,0
+143,96,92,directed,Actionnaire,2,,,0
+130,95,93,directed,Participation minoritaire,2,,,0
+132,95,92,directed,Participation minoritaire,2,,,0
+131,95,94,directed,Participation minoritaire,2,,,0
+141,92,88,directed,Intervient à,2,,,0
+154,92,101,directed,A développé,2,,,0
+185,90,91,directed,Filiale de,2,,,0
+158,89,43,directed,Siège social,2,,,0
+126,88,89,directed,Situé à,2,,,0
+139,88,13,directed,Annonce,2,,,0
+122,87,86,directed,Filiale,2,,,0
+127,87,88,directed,Organise,2,,,0
+156,86,43,directed,Siège social,2,,,0
+138,86,13,directed,Fondateur,3,,,0
+116,84,85,directed,Est un,2,,,0
+119,84,36,directed,Utilise,2,,,0
+118,84,27,directed,Utilise,2,,,0
+117,84,31,directed,Utilise,2,,,0
+114,83,31,directed,Utilise,2,,,0
+115,83,85,directed,Est un,2,,,0
+112,82,40,directed,Siège social,2,,,0
+144,82,92,directed,Actionnaire,1,,,1
+133,82,87,directed,Collaboration,2,,,0
+515,87,82,directed,Collaboration,2,,,0
+128,82,88,directed,Soutient,2,,,0
+113,82,81,directed,En partenariat,2,https://blog.novelai.net/anlatan-acquires-hgx-h100-cluster-4b7a2e6a631e,,0
+495,81,82,directed,En partenariat,2,https://blog.novelai.net/anlatan-acquires-hgx-h100-cluster-4b7a2e6a631e,,0
+109,81,80,directed,Développé par,2,,,0
+110,81,40,directed,Siège social,2,,,0
+107,80,78,directed,Basé sur,2,,,0
+108,80,79,directed,Concerne,2,,,0
+105,77,24,directed,Maison mère,2,,,0
+111,77,40,directed,Siège social,2,,,0
+84,74,17,directed,A fondé et dirige,2,,,0
+85,74,73,directed,Nationalité,2,,,0
+81,71,46,directed,Concerne,2,,,0
+77,70,46,directed,Construit,2,,,0
+72,68,16,directed,A fondé et dirige,2,,,0
+73,68,69,directed,Nationalité,2,,,0
+70,67,6,directed,Collabore avec,2,,,0
+47,65,1,directed,Auteurs de,2,,,0
+55,65,40,directed,Nationalité,2,,,0
+66,63,40,directed,Nationalité,2,,,0
+67,63,25,directed,Développé par,2,,,0
+28,62,18,directed,Fondateur et dirigeant de,2,,,0
+33,62,33,directed,A travaillé sur,2,,,0
+29,62,3,directed,Ancien employé,2,,,0
+27,61,18,directed,Fondateur et dirigeant de,2,,,0
+34,61,33,directed,A travaillé sur,2,,,0
+30,61,3,directed,Ancien employé,2,,,0
+65,60,4,directed,Scientifique en chef sur l'IA,2,,,0
+188,60,43,directed,Nationalité,2,,,0
+129,59,95,directed,Fondateur et propriétaire,2,,,0
+95,59,43,directed,Nationalité,2,,,0
+121,59,86,directed,"Fondateur, propriétaire président du conseil d'administration",2,,,0
+125,59,91,directed,Fondateur et propriétaire,2,,,0
+124,59,90,directed,Fondateur et propriétaire,2,,,0
+123,59,89,directed,Fondateur,2,,,0
+5,58,6,directed,A fondé et dirige,2,,,0
+134,57,96,directed,Dirigeant,2,,,0
+96,57,43,directed,Nationalité,2,,,0
+136,56,97,directed,Fondateur et propriétaire,2,,,0
+98,56,3,directed,Ex CEO de,2,,,0
+97,56,40,directed,Nationalité,2,,,0
+62,55,15,directed,Possède et dirige,2,,,0
+64,55,40,directed,Nationalité,2,,,0
+23,45,64,directed,Sont des,2,,,0
+184,43,111,directed,,2,,,0
+182,43,116,directed,,2,,,0
+99,42,38,directed,Sous influence,1,,,1
+104,41,8,directed,Sous influence,1,,,1
+17,36,23,directed,Gratuitement,2,,,0
+18,35,23,directed,Gratuitement,2,,,0
+39,34,23,directed,Gratuitement,2,,,0
+7,31,22,directed,Abonnement,2,,,0
+20,31,23,directed,Abonnement,2,,,0
+6,30,22,directed,Gratuitement,2,,,0
+19,30,23,directed,Gratuitement,2,,,0
+68,25,46,directed,Se rapporte à,2,,,0
+8,22,47,directed,Abonnement,2,,,0
+9,22,48,directed,Abonnement,2,,,0
+10,21,31,directed,Basé sur,2,,,0
+120,21,85,directed,Est un,2,,,0
+36,20,37,directed,Basé sur,2,,,0
+37,20,33,directed,Basé sur,2,,,0
+24,19,64,directed,Génère,2,,,0
+25,18,19,directed,A créé et supervise,2,,,0
+56,18,40,directed,Siège social,2,,,0
+87,17,75,directed,,2,,,0
+80,17,71,directed,Développe,2,,,0
+86,17,76,directed,,2,,,0
+83,17,73,directed,Equipe originaire de,2,,,0
+82,17,72,directed,Siège social,2,,,0
+71,16,67,directed,Utilise,2,https://customers.microsoft.com/en-au/story/1657407824531643938-deepbrain-ai-azure-unitedstates,,0
+75,16,69,directed,Siège social,2,,,0
+457,69,16,directed,Siège social,2,,,0
+78,16,40,directed,Siège social,2,,,0
+76,16,70,directed,A développé,2,,,0
+61,15,40,directed,Siège social,2,,,0
+63,15,66,directed,A développé,2,,,0
+21,14,29,directed,A utilisé,2,,,0
+57,14,40,directed,Siège social,2,,,0
+22,14,45,directed,Génère,2,,,0
+91,13,43,directed,Siège social,2,,,0
+88,12,43,directed,Fondateurs de nationalité,2,,,0
+140,12,88,directed,Intervient à,2,,,0
+90,12,39,directed,A développé,2,,,0
+89,12,40,directed,Siège social,2,,,0
+100,11,42,directed,Localisation,2,,,0
+101,11,38,directed,A développé,2,,,0
+46,10,65,directed,Membres,2,,,0
+54,10,40,directed,Localisation,2,,,0
+49,10,1,directed,Responsable de,2,,,0
+42,9,26,directed,A utilisé,2,,,0
+51,9,40,directed,Siège social,2,,,0
+102,8,28,directed,A développé,2,,,0
+103,8,41,directed,Siège social,2,,,0
+16,7,23,directed,A développé,2,,,0
+50,7,40,directed,Siège social,2,,,0
+1,6,29,directed,A développé,2,,,0
+106,6,78,directed,A développé,2,,,0
+59,6,40,directed,Siège social,2,,,0
+4,6,32,directed,Développe,2,,,0
+3,6,31,directed,A développé,2,,,0
+2,6,30,directed,A développé,2,,,0
+11,5,21,directed,A développé,2,,,0
+79,5,17,directed,Soutient,2,,,0
+69,5,67,directed,A développé,2,,,0
+58,5,40,directed,Siège social,2,,,0
+13,5,6,directed,A investi dans,2,,,0
+12,5,58,directed,A soutenu,2,,,0
+14,4,35,directed,A développé,2,,,0
+142,4,88,directed,Intervient à,2,,,0
+60,4,40,directed,Siège social,2,,,0
+15,4,36,directed,A développé,2,,,0
+26,3,18,directed,Investirait dans,1,https://www.reuters.com/technology/google-talks-invest-ai-startup-characterai-sources-2023-11-10/,,1
+187,3,125,directed,A développé,2,,,0
+53,3,40,directed,Siège social,2,,,0
+45,3,65,directed,Membres,2,,,0
+44,3,2,directed,A investi dans,2,,,0
+43,3,6,directed,A investi dans,2,,,0
+38,3,34,directed,A développé,2,,,0
+35,3,20,directed,A développé,2,,,0
+32,3,37,directed,A developpé,2,,,0
+31,3,33,directed,A developpé,2,,,0
+40,2,27,directed,A développé,2,,,0
+52,2,40,directed,Siège social,2,,,0
+41,2,26,directed,A développé,2,,,0
+48,1,44,directed,Porte sur,4,,pink,0
+666,91,95,directed,Appartient_à,2,,,0
+665,90,95,directed,Appartient_à,2,,,0
+614,54,65,directed,Appartient_à,2,,,0
+613,53,65,directed,Appartient_à,2,,,0
+612,52,65,directed,Appartient_à,2,,,0
+610,51,65,directed,Appartient_à,2,,,0
+615,50,65,directed,Appartient_à,2,,,0
+609,49,65,directed,Appartient_à,2,,,0
